@@ -1,0 +1,1 @@
+Learning GO while trying to make a service that will send specific server and docker status to another service that will just listen to those webhooks to have a dashboard to know the status of all my server and container without having to open ports or connect to those server.
